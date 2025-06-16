@@ -12,8 +12,6 @@
   "description": "",
   "dependencies": {
     "@upstash/redis": "^1.35.0",
-    "dotenv": "^16.5.0",
-    "jspdf": "^3.0.1",
-    "mongodb": "^6.17.0"
+    "jspdf": "^3.0.1"
   }
 }
