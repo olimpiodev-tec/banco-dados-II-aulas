@@ -1,0 +1,73 @@
+[
+  {
+    "ni_professor": "P001",
+    "nome": "Carlos Souza",
+    "email": "carlos.souza@example.com",
+    "disciplinas": [
+      "BD101"
+    ],
+    "especialidades": [
+      {
+        "cod_especialidade": "E001",
+        "descricao": "Banco de Dados"
+      }
+    ]
+  },
+  {
+    "ni_professor": "P002",
+    "nome": "Fernanda Lima",
+    "email": "fernanda.lima@example.com",
+    "disciplinas": [
+      "POO102"
+    ],
+    "especialidades": [
+      {
+        "cod_especialidade": "E002",
+        "descricao": "Programação Orientada a Objetos"
+      }
+    ]
+  },
+  {
+    "ni_professor": "P003",
+    "nome": "Ricardo Mendes",
+    "email": "ricardo.mendes@example.com",
+    "disciplinas": [
+      "LOG201"
+    ],
+    "especialidades": [
+      {
+        "cod_especialidade": "E003",
+        "descricao": "Algoritmos e Lógica"
+      }
+    ]
+  },
+  {
+    "ni_professor": "P004",
+    "nome": "Juliana Rocha",
+    "email": "juliana.rocha@example.com",
+    "disciplinas": [
+      "WEB101"
+    ],
+    "especialidades": [
+      {
+        "cod_especialidade": "E004",
+        "descricao": "Desenvolvimento Web"
+      }
+    ]
+  },
+  {
+    "ni_professor": "P005",
+    "nome": "Marcelo Tavares",
+    "email": "marcelo.tavares@example.com",
+    "disciplinas": [
+      "ENG103",
+      "RED202"
+    ],
+    "especialidades": [
+      {
+        "cod_especialidade": "E005",
+        "descricao": "Engenharia de Software e Redes"
+      }
+    ]
+  }
+]

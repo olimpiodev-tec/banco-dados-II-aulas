@@ -1,0 +1,46 @@
+[
+  {
+    "cod_curso": "ADS",
+    "nome": "Análise e Desenvolvimento de Sistemas",
+    "qtde_semestres": 6,
+    "disciplinas": [
+      {
+        "cod_disciplina": "BD101",
+        "nome": "Banco de Dados",
+        "carga_horaria": 80
+      },
+      {
+        "cod_disciplina": "POO102",
+        "nome": "Programação Orientada a Objetos",
+        "carga_horaria": 80
+      },
+      {
+        "cod_disciplina": "ENG103",
+        "nome": "Engenharia de Software",
+        "carga_horaria": 60
+      }
+    ]
+  },
+  {
+    "cod_curso": "INF",
+    "nome": "Informática",
+    "qtde_semestres": 4,
+    "disciplinas": [
+      {
+        "cod_disciplina": "LOG201",
+        "nome": "Lógica de Programação",
+        "carga_horaria": 60
+      },
+      {
+        "cod_disciplina": "WEB101",
+        "nome": "Desenvolvimento Web",
+        "carga_horaria": 80
+      },
+      {
+        "cod_disciplina": "RED202",
+        "nome": "Redes de Computadores",
+        "carga_horaria": 60
+      }
+    ]
+  }
+]

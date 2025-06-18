@@ -1,0 +1,140 @@
+[
+  {
+    "matricula": "2023001",
+    "nome": "Ana Clara Souza",
+    "data_nascimento": "2005-03-10",
+    "email": "ana.clara@example.com",
+    "turmas": [
+      {
+        "cod_turma": "TADS2023A",
+        "ano": 2023,
+        "cod_curso": "ADS"
+      }
+    ],
+    "notas": [
+      {
+        "cod_disciplina": "BD101",
+        "cod_turma": "TADS2023A",
+        "ano": 2023,
+        "semestre": 1,
+        "nota": 8.7
+      },
+      {
+        "cod_disciplina": "POO102",
+        "cod_turma": "TADS2023A",
+        "ano": 2023,
+        "semestre": 1,
+        "nota": 9.2
+      }
+    ]
+  },
+  {
+    "matricula": "2023002",
+    "nome": "Bruno Henrique Lima",
+    "data_nascimento": "2004-11-22",
+    "email": "bruno.lima@example.com",
+    "turmas": [
+      {
+        "cod_turma": "TADS2023A",
+        "ano": 2023,
+        "cod_curso": "ADS"
+      }
+    ],
+    "notas": [
+      {
+        "cod_disciplina": "BD101",
+        "cod_turma": "TADS2023A",
+        "ano": 2023,
+        "semestre": 1,
+        "nota": 6.4
+      },
+      {
+        "cod_disciplina": "POO102",
+        "cod_turma": "TADS2023A",
+        "ano": 2023,
+        "semestre": 1,
+        "nota": 7.1
+      }
+    ]
+  },
+  {
+    "matricula": "2023003",
+    "nome": "Carlos Eduardo Martins",
+    "data_nascimento": "2005-07-05",
+    "email": "carlos.martins@example.com",
+    "turmas": [
+      {
+        "cod_turma": "TINF2023B",
+        "ano": 2023,
+        "cod_curso": "INF"
+      }
+    ],
+    "notas": [
+      {
+        "cod_disciplina": "LOG201",
+        "cod_turma": "TINF2023B",
+        "ano": 2023,
+        "semestre": 1,
+        "nota": 8.0
+      }
+    ]
+  },
+  {
+    "matricula": "2023004",
+    "nome": "Daniela Ribeiro Santos",
+    "data_nascimento": "2004-05-19",
+    "email": "daniela.ribeiro@example.com",
+    "turmas": [
+      {
+        "cod_turma": "TADS2023A",
+        "ano": 2023,
+        "cod_curso": "ADS"
+      }
+    ],
+    "notas": [
+      {
+        "cod_disciplina": "BD101",
+        "cod_turma": "TADS2023A",
+        "ano": 2023,
+        "semestre": 1,
+        "nota": 9.5
+      },
+      {
+        "cod_disciplina": "POO102",
+        "cod_turma": "TADS2023A",
+        "ano": 2023,
+        "semestre": 1,
+        "nota": 9.8
+      }
+    ]
+  },
+  {
+    "matricula": "2023005",
+    "nome": "Eduarda Farias Lopes",
+    "data_nascimento": "2005-01-28",
+    "email": "eduarda.lopes@example.com",
+    "turmas": [
+      {
+        "cod_turma": "TINF2023B",
+        "ano": 2023,
+        "cod_curso": "INF"
+      }
+    ],
+    "notas": [
+      {
+        "cod_disciplina": "LOG201",
+        "cod_turma": "TINF2023B",
+        "ano": 2023,
+        "semestre": 1,
+        "nota": 7.3
+      },
+      {
+        "cod_disciplina": "WEB101",
+        "cod_turma": "TINF2023B",
+        "ano": 2023,
+        "semestre": 1,
+        "nota": 8.1
+      }
+    ]
+  }
+]
